@@ -26,9 +26,9 @@ Solved_Perfect.jpg: This screeenshot shows my firefox, all fixed up. :))
 
 shoot me up if you have any questions. :))
 also, if you experiment with this all and are able to fix firefox without my stupid trick, please do let me know. :)) Thanks a lot for your help. :))
-Now, if you can figure out how to expand TreeStyleTab at the top so that it grabs the entire left side of the screen and how to shrink the navigation bar to the right to make space for the TreeStyleTab then that would be a huge huge bumper help. :))
+Now, if you can figure out how to expand TreeStyleTab from the top so that it grabs the entire left side of the screen and how to shrink the navigation bar to the right to make space for the TreeStyleTab then that would be a huge huge bumper help. :))
 and hey, it would also make your firefox and many other's firefox much better and easier to use. :))
 still, Thanks a lot for your help. :))
 
-PS: straightaway doing the height:900 without doing the min, max height doesn't work, I tried it. :))
+PS: Straightaway doing the height:900 without doing the min, max-height doesn't work, I tried it. :))
 
