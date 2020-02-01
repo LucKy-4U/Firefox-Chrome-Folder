@@ -1,0 +1,104 @@
+/*Set default namespace to xul*/
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* To hide the Native Tabs */
+#TabsToolbar {
+    visibility: collapse;
+}
+/* To hide the Navigation Bar */
+/*#nav-bar {
+    visibility: collapse;
+}*/
+
+/* To hide the Sidebar Header */
+/*#sidebar-header {
+    visibility: collapse;
+}*/
+
+#main-window[sizemode="maximized"] #titlebar {
+    margin-bottom: -34px !important;
+}
+#main-window[sizemode="maximized"] #nav-bar {
+    margin-right: 138px;
+}
+
+
+/*Another User(norlin)'s settings on reddit
+#TabsToolbar {
+    height: 0!important;
+    margin-bottom: -23px !important;
+    padding: 0!important;
+}
+toolbar {
+    padding-right: 110px !important;
+    padding-bottom: 2px !important;
+    padding-top: 2px !important;
+}
+#navigator-toolbox::after {
+    border-bottom: 1px solid #474749 !important;
+}
+ ####Minimize sidebar header to a light blue stripe (except Bookmarks, History, Sync'd Tabs); appears normally on hover
+
+#sidebar-box:not([sidebarcommand="viewBookmarksSidebar"]):not([sidebarcommand="viewHistorySidebar"]):not([sidebarcommand="viewTabsSidebar"]) #sidebar-header:not(:hover) {
+    max-height: 5px !important;
+    min-height: 5px !important;
+    padding: 0 !important;
+    background-color: #323234 !important;
+    opacity: 1 !important;
+}
+#sidebar-box:not([sidebarcommand="viewBookmarksSidebar"]):not([sidebarcommand="viewHistorySidebar"]):not([sidebarcommand="viewTabsSidebar"]) #sidebar-header:not(:hover) #sidebar-switcher-target {
+    #### BAD NEWS: display: none !important; 
+    
+    opacity: 0 !important;
+}
+*/
+
+
+/*
+another user's settings from reddit:
+
+#TabsToolbar {
+    visibility: collapse;
+}
+
+#main-window[sizemode="maximized"] #titlebar {
+    margin-bottom: -34px !important;
+}
+
+#titlebar-buttonbox {
+    height: 32px !important;
+    background-color: #323234 ####To match window controls with the dark theme colors.
+}
+
+#main-window[sizemode="maximized"] #nav-bar {
+    margin-right: 138px;
+}
+
+Or like this (this version only has small drag area near collapse button):
+
+#TabsToolbar {
+    visibility: collapse;
+}
+
+#titlebar {
+    margin-bottom: -34px !important;
+}
+
+#titlebar-buttonbox {
+    height: 32px !important;
+}
+
+#nav-bar {
+    margin-right: 180px;
+}
+
+#main-window[sizemode="maximized"] #nav-bar {
+    margin-right: 138px;
+*/
+/*
+    #### move nav panel in slightly to prevent covering macOS window 
+controls 
+#nav-bar-customization-target {
+     padding-left: 65px;
+}
+*/
