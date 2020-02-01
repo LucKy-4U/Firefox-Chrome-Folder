@@ -14,8 +14,8 @@ But Thanks to you making me make this repository. :P :)) I was able to resolve t
 
 but this gave me one more issue: At certain places, Firefox going outside the visible screen. :((
 CustomizationView_WithoutButtonsAtTheBottom.jpg: This screenshot shows the customization view of firefox. Notice how the buttons at the bottom are only half visible?
-
 CustomizationView_WithButtonsAtTheBottom.jpg: This is a screenshot of how it is supposed to look like. :((
+
 Firefox_WithLastTabHalfVisible.jpg: Notice how at the bottom of the TreeStyleTab you see only half of the last open tab?
 
 WELL, THE GOOD NEWS IS THAT I WAS ABLE TO RESOLVE ALL THESE ISSUES WITH A PRETTY STUPID TRICK. :P
