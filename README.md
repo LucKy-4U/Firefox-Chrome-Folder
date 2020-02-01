@@ -30,3 +30,5 @@ Now, if you can figure out how to expand TreeStyleTab at the top so that it grab
 and hey, it would also make your firefox and many other's firefox much better and easier to use. :))
 still, Thanks a lot for your help. :))
 
+PS: straightaway doing the height:900 without doing the min, max height doesn't work, I tried it. :))
+
