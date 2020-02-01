@@ -10,6 +10,6 @@ But Thanks to you making me make this repository. :P :)) I was able to resolve t
     max-height: 900px !important;
 } /*you can check the height of your display size and change the pixel number accordingly. :)*/
 
-but this gave me one more issue: Firefox going outside the visible screen. :((
+but this gave me one more issue: At certain places, Firefox going outside the visible screen. :((
 CustomizationView_WithoutButtonsAtTheBottom.jpg: This screenshot shows the customization view of firefox. Notice how the buttons at the bottom are only half visible?
 CustomizationView_WithButtonsAtTheBottom.jpg is a screenshot of how it is supposed to look like. :((
